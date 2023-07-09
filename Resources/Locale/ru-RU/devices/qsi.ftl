@@ -1,2 +1,2 @@
-qsi-bonded = Вы связываете эти КИСы.
-qsi-already-bonded = Этот КИС уже привязан!
+qsi-bonded = You bond the two QSIs.
+qsi-already-bonded = This QSI is already bonded!
