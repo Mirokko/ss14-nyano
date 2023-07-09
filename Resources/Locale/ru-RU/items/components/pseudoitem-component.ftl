@@ -1,2 +1,2 @@
-action-name-insert-self = Зайти внутрь
-action-name-insert-other = Вставить { THE($target) }
+action-name-insert-self = Insert yourself
+action-name-insert-other = Insert { THE($target) }
