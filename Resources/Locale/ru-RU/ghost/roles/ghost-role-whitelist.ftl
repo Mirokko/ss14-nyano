@@ -1,6 +1,6 @@
 ghost-role-whitelist-text =
-    { $num } должностей не показаны, так как они
-    требуют нахождения в белом списке.
+    { $num } roles are not shown because they
+    require whitelisting to play.
 ghost-role-whitelist-text-one =
-    Одна должность не показана, так как она
-    требует нахождения в белом списке.
+    One role is not shown because it
+    requires whitelisting to play.
