@@ -1,0 +1,13 @@
+action-name-spin-web = Спрясти паутину
+action-desc-spin-web = Используйте свои прядильные способности, чтобы сделать паутину на текущем тайле. Делает вас более голодным и увеличивает жажду.
+action-name-spin-web-space = You can't spin a web in space!
+action-name-spin-web-blocked = There's no room for a web here.
+spin-web-action-hungry = You're too hungry to spin a web!
+spin-web-action-thirsty = You're too thirsty to spin a web!
+spin-web-start-second-person = You start spinning a web.
+spin-web-start-third-person = { CAPITALIZE(THE($spider)) } starts spinning a web!
+cocoon-start-second-person = You start cocooning { THE($target) }.
+cocoon-start-third-person = { CAPITALIZE(THE($spider)) } starts cocooning { THE($target) }.
+spun-web-second-person = You spin up a web.
+spun-web-third-person = { CAPITALIZE(THE($spider)) } spins up a web!
+cocoon = Cocoon
