@@ -1,2 +1,2 @@
-carry-verb = Нести
-carry-too-heavy = Вы недостаточно сильны.
+carry-verb = Carry
+carry-too-heavy = You're not strong enough.
