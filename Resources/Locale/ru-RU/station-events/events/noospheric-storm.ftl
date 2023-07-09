@@ -1,1 +1,1 @@
-station-event-noospheric-storm-announcement = Обнаружен ноосферный шторм. Списки псиоников могут потребовать изменений, мантисам следует быть начеку.
+station-event-noospheric-storm-announcement = Noöspheric storm detected. Psionic registries may need updating, and mantes should be on high alert.
