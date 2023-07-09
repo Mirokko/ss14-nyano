@@ -1,4 +1,4 @@
 ﻿discord-round-new = A new round is starting!
-discord-round-start = Раунд #{ $id } на карте "{ $map }" начался.
-discord-round-end = Раунд #{ $id } закончился. Он длился { $hours } часов, { $minutes } минут, { $seconds } секунд.
-discord-round-title = Оповещения раундов
+discord-round-start = Round #{ $id } on map "{ $map }" has started.
+discord-round-end = Round #{ $id } has ended. It lasted for { $hours } hours, { $minutes } minutes, and { $seconds } seconds.
+discord-round-title = Round Notification
