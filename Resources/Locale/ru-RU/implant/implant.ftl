@@ -1,22 +1,22 @@
 ﻿## Implanter Attempt Messages
 
-implanter-component-implanting-target = { $user } пытается что-то в вас имплантировать!
-implanter-draw-failed-permanent = { $implant } вросся в { $target } и не может быть удалён!
-implanter-draw-failed = Вы пытаетесь удалить имплант, но ничего не находите.
+implanter-component-implanting-target = { $user } is trying to implant you with something!
+implanter-draw-failed-permanent = The { $implant } in { $target } is fused with them and cannot be removed!
+implanter-draw-failed = You tried to remove an implant but found nothing.
 
 ## UI
 
-implanter-draw-text = Извлечение
-implanter-inject-text = Установка
-implanter-empty-text = Пусто
+implanter-draw-text = Draw
+implanter-inject-text = Inject
+implanter-empty-text = None
 implanter-implant-text = { $implantName }{ $lineBreak }{ $implantDescription }
-implanter-label = [color=white]Имплант: { $currentEntities }{ $lineBreak }Режим: { $modeString }[/color]
+implanter-label = [color=white]Implant: { $currentEntities }{ $lineBreak }Mode: { $modeString }[/color]
 
 ## Implanter Actions
 
-open-storage-implant-action-name = открыть имплант Хранилище
-open-storage-implant-action-description = Открывает доступ к хранилищу, спрятанному под вашей кожей.
-activate-micro-bomb-action-name = активировать имплант Микробомба
-activate-micro-bomb-action-description = Активирует вживлённую микробомбу, полностью уничтожая вас и ваше снаряжение.
-use-freedom-implant-action-name = активировать имплант Свобода
-use-freedom-implant-action-description = Освобождает вас от наручников и других ограничителей.
+open-storage-implant-action-name = Open Storage Implant
+open-storage-implant-action-description = Opens the storage implant embedded under your skin
+activate-micro-bomb-action-name = Activate Microbomb
+activate-micro-bomb-action-description = Activates your internal microbomb, completely destroying you and your equipment
+use-freedom-implant-action-name = Break Free
+use-freedom-implant-action-description = Activating your freedom implant will free you from any hand restraints
