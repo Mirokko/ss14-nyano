@@ -1,3 +1,5 @@
-# General
-rule-restarting-in-seconds = Restarting in { $seconds } seconds.
-rule-time-has-run-out = Time has run out!
+﻿# Rules
+
+ui-rules-header = Nyanotrasen Server Rules
+ui-rules-accept = I have read and agree to follow the rules
+ui-rules-wait = The accept button will be enabled after { $time } seconds.
