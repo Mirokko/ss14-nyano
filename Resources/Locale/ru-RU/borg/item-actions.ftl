@@ -1,6 +1,6 @@
-health-analyzer-action = Анализатор здоровья
-health-analyzer-action-desc = Анализировать здоровье цели.
-fabricate-gumball-action = Произвести конфету
-fabricate-gumball-desc = Произвести конфету с сахаром и медикаментами.
-fabricate-lollipop-action = Произвести леденец
-fabricate-lollipop-desc = Произвести сахарный леденец с медикаментами.
+health-analyzer-action = Health Analyzer
+health-analyzer-action-desc = Scan a target's health.
+fabricate-gumball-action = Fabricate Gumball
+fabricate-gumball-desc = Fabricate a gumball full of sugar and medicine.
+fabricate-lollipop-action = Fabricate Lollipop
+fabricate-lollipop-desc = Fabricate a lollipop full of a lot of good stuff.
