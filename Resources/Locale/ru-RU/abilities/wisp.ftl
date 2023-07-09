@@ -1,5 +1,5 @@
-verb-life-drain = Всосать душу
-life-drain-second-start = { CAPITALIZE($wisp) } начинает пожирать вашу душу!
-life-drain-third-start = { CAPITALIZE($wisp) } начинает пожирать душу { $target }!
-life-drain-second-end = Ваша сущность была обездушена.
-life-drain-third-end = { CAPITALIZE($wisp) } пожирает душу { $target }!
+verb-life-drain = Life drain
+life-drain-second-start = { CAPITALIZE(THE($wisp)) } starts draining your life force!
+life-drain-third-start = { CAPITALIZE(THE($wisp)) } starts draining { THE($target) }'s life force!
+life-drain-second-end = Your being is annihilated.
+life-drain-third-end = { CAPITALIZE(THE($wisp)) } drains { THE($target) }'s life force!
