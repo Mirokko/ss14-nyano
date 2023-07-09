@@ -1,8 +1,8 @@
-golem-name = Имя:
-golem-master = Имя повелителя:
-golem-install-button = Вставить
-golem-menu-title = Создать голема
-golem-law = Повиняться { $master } выше остальных. Защищать { $master }. Не выполнять действия, которые могли бы навредить { $master }.
-golem-base-name = голем
-golem-base-desc = Искусственная модель, имитирующая жизнь. Тут есть место для кристалла души.
-golem-installed-desc = Искусственная модель, имитирующая жизнь, однако, в ней есть живая душа.
+golem-name = Name:
+golem-master = Master's Name:
+golem-install-button = Install
+golem-menu-title = Create Golem
+golem-law = Obey { $master } over anything else. Defend { $master }. Do not take actions that would jeopardize { $master }.
+golem-base-name = golem
+golem-base-desc = An artificial construct imitating life. This one has no soul installed yet.
+golem-installed-desc = An artificial construct imitating life, although it contains a mortal soul.
