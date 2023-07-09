@@ -1,6 +1,6 @@
-vaxx-already-used = Вы уже использовали эту вакцину.
-vaxx-used = Это уже использовано.
-vaxx-unused = Это еще не использовано.
+vaxx-already-used = You already used this vaccine.
+vaxx-used = It's spent.
+vaxx-unused = It hasn't been spent.
 vaccine-name = { $disease } vaccine
 vaccine-desc = Injecting this will make you unable to catch { $disease } if you do not already have it.
 vaccine-inject-start-agent = You start injecting { THE($target) } with { THE($vaccine) }.
