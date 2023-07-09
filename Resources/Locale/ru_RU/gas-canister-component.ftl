@@ -1,17 +1,20 @@
-comp-gas-canister-ui-canister-status = Canister Status
-comp-gas-canister-ui-canister-relabel = Relabel
-comp-gas-canister-ui-canister-pressure = Canister Pressure:
-comp-gas-canister-ui-port-status = Port Status:
-comp-gas-canister-ui-port-connected = Connected
-comp-gas-canister-ui-port-disconnected = Disconnected
-comp-gas-canister-ui-holding-tank-status = Holding Tank Status
-comp-gas-canister-ui-holding-tank-label = Tank Label:
-comp-gas-canister-ui-holding-tank-label-empty = Empty
-comp-gas-canister-ui-holding-tank-pressure = Tank Pressure:
-comp-gas-canister-ui-holding-tank-eject = Eject
-comp-gas-canister-ui-release-valve-status = Release Valve Status
-comp-gas-canister-ui-release-pressure = Release Pressure (kPa):
-comp-gas-canister-ui-release-valve = Release Valve:
-comp-gas-canister-ui-release-valve-open = Open
-comp-gas-canister-ui-release-valve-close = Close
-comp-gas-canister-ui-pressure = { $pressure } kPa
+## UI
+
+
+# Bound Interface
+
+gas-canister-bound-user-interface-title = Gas Canister
+# Popup
+gas-canister-popup-denied = Access denied
+
+# window
+
+gas-canister-window-ok-text = OK
+gas-canister-window-edit-text = Edit
+gas-canister-window-label-label = Label:
+gas-canister-window-pressure-label = Pressure:
+gas-canister-window-release-pressure-label = Release pressure:
+gas-canister-window-valve-label = Valve:
+gas-canister-window-valve-closed-text = Closed
+gas-canister-window-valve-open-text = Open
+gas-canister-window-pressure-format-text = { $pressure }kPa
