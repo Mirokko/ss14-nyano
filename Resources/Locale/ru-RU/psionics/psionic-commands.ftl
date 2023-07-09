@@ -1,6 +1,6 @@
-command-glimmershow-description = Показать уровень напряжённости.
-command-glimmershow-help = Без аргументов.
-command-glimmerset-description = Установить напряжённость на какой-то уровень.
-command-glimmerset-help = glimmerset (целоечисло)
-command-lspsionic-description = Показать список псиоников.
-command-lspsionic-help = Без аргументов.
+command-glimmershow-description = Show the current glimmer level.
+command-glimmershow-help = No arguments.
+command-glimmerset-description = Set glimmer to a number.
+command-glimmerset-help = glimmerset (integer)
+command-lspsionic-description = List psionics.
+command-lspsionic-help = No arguments.
