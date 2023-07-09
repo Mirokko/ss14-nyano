@@ -1,9 +1,9 @@
-delete-verb-get-data-text = Удалить
-edit-solutions-verb-get-data-text = Редактировать растворы
-explode-verb-get-data-text = Взорвать
-ahelp-verb-get-data-text = Написать
+delete-verb-get-data-text = Delete
+edit-solutions-verb-get-data-text = Edit Solutions
+explode-verb-get-data-text = Explode
+ahelp-verb-get-data-text = Message
 admin-verbs-admin-logs-entity = Entity Logs
-admin-verbs-teleport-to = Телепортироваться к
-admin-verbs-teleport-here = Телепортировать сюда
-admin-verbs-freeze = Заморозить
-admin-verbs-unfreeze = Разморозить
+admin-verbs-teleport-to = Teleport To
+admin-verbs-teleport-here = Teleport Here
+admin-verbs-freeze = Freeze
+admin-verbs-unfreeze = Unfreeze
