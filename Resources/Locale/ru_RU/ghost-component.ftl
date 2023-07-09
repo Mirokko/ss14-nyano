@@ -1,3 +1,3 @@
-ghost-component-on-examine-death-time-info-minutes = { $minutes } minutes ago
-ghost-component-on-examine-death-time-info-seconds = { $seconds } seconds ago
-ghost-component-on-examine-message = Died [color=yellow]{ $timeOfDeath }[/color].
+﻿# Examine text
+comp-ghost-examine-time-minutes = Died [color=yellow]{ $minutes } minutes ago.[/color]
+comp-ghost-examine-time-seconds = Died [color=yellow]{ $seconds } seconds ago.[/color]
