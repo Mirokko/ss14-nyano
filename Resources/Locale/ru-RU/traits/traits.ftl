@@ -1,11 +1,11 @@
 ﻿trait-blindness-name = Blindness
-trait-blindness-desc = У вас ужасное зрение
-trait-narcolepsy-name = Нарколепсия
-trait-narcolepsy-decs = Вас одолевают приступы сонливости
-trait-pacifist-name = Пацифист
-trait-sneezing-name = Насморк
-trait-sneezing-desc = Вы бесконтрольно чихаете и кашляете
-permanent-blindness-trait-examined = [color=lightblue]{ CAPITALIZE(POSS-PRONOUN($target)) } глаза остекленелые и расфокусированные. Не похоже, что { SUBJECT($target) } может вас видеть.[/color]
+trait-blindness-desc = You lack vision
+trait-narcolepsy-name = Narcolepsy
+trait-narcolepsy-decs = You fall asleep randomly
+trait-pacifist-name = Pacifist
+trait-sneezing-name = Runny nose
+trait-sneezing-desc = You sneeze and cough uncontrollably
+permanent-blindness-trait-examined = [color=lightblue]{ CAPITALIZE(POSS-ADJ($target)) } eyes are glassy and unfocused. It doesn't seem like { SUBJECT($target) } can see you.[/color]
 trait-lightweight-name = Lightweight Drunk
 trait-lightweight-desc = Alcohol has a stronger effect on you
 trait-muted-name = Muted
