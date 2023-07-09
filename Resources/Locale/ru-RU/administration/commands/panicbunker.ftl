@@ -1,2 +1,2 @@
-panicbunker-command-enabled = Паник-бункер был включён.
-panicbunker-command-disabled = Паник-бункер был выключен.
+panicbunker-command-enabled = Panic bunker has been enabled.
+panicbunker-command-disabled = Panic bunker has been disabled.
