@@ -1,2 +1,4 @@
-# Default text that gets shown in the context menu for examining something with a GroupExamineComponent
-verb-examine-group-other = Other
+### Loc for the various UI-related verbs
+
+ui-verb-toggle-open = Toggle UI
+verb-instrument-openui = Play Music
