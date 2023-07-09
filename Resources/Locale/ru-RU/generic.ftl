@@ -1,7 +1,8 @@
-﻿### Messages that can be utilized by multiple reagents.
+### Generic, general words, which fit into multiple contexts
 
-generic-reagent-effect-burning-insides = You feel your insides burning up!
-generic-reagent-effect-burning-eyes = Your eyes begin to slightly burn.
-generic-reagent-effect-burning-eyes-a-bit = Your eyes burn a bit.
-generic-reagent-effect-tearing-up = Your eyes start to tear up.
-generic-reagent-effect-nauseous = You feel nauseous.
+generic-not-available-shorthand = Н/Д
+generic-article-a = это
+generic-article-an = это
+generic-unknown = неизвестно
+generic-error = ошибка
+generic-invalid = недействительно
