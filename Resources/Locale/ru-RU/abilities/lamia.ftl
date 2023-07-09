@@ -1,13 +1,13 @@
-action-name-suck-blood = Выпить кровь
-action-description-suck-blood = Выпить крови из сущности в вашей руке.
-bloodsucker-fail-helmet = Вам нужно снять { THE($helmet) }.
-bloodsucker-fail-mask = Вам нужно снять маску!
-bloodsucker-fail-not-blood = У { SUBJECT($target) } нету вкусной, утоляющей крови.
-bloodsucker-fail-no-blood = У { SUBJECT($target) } не осталось крови.
-bloodsucker-fail-no-blood-bloodsucked = { CAPITALIZE(SUBJECT($target)) }, кажется, полностью высосан.
-bloodsucker-blood-sucked = Вы выпили кровь из { $target }.
-bloodsucker-doafter-start = Вы пытаетесь выпить кровь из { $target }.
-bloodsucker-doafter-start-victim = { CAPITALIZE(THE($sucker)) } пытается укусить вас за шею!
-bloodsucker-blood-sucked-victim = { CAPITALIZE(THE($sucker)) } высасывает из вас немного крови!
-bloodsucked-health-examine = [color=red]У { SUBJECT($target) } есть видные следы укусов на { POSS-ADJ($target) } шее.[/color]
-bloodsucker-glands-throb = Вы чувствуете сухость своих желез за клыками.
+action-name-suck-blood = Suck Blood
+action-description-suck-blood = Suck the blood of the victim in your hand.
+bloodsucker-fail-helmet = You'd need to remove { THE($helmet) }.
+bloodsucker-fail-mask = You'd need to remove your mask!
+bloodsucker-fail-not-blood = { CAPITALIZE(SUBJECT($target)) } doesn't have delicious, nourishing mortal blood.
+bloodsucker-fail-no-blood = { CAPITALIZE(SUBJECT($target)) } has no blood in { POSS-ADJ($target) } body.
+bloodsucker-fail-no-blood-bloodsucked = { CAPITALIZE(SUBJECT($target)) } has been sucked dry.
+bloodsucker-blood-sucked = You suck some blood from { $target }.
+bloodsucker-doafter-start = You try to suck blood from { $target }.
+bloodsucker-doafter-start-victim = { CAPITALIZE(THE($sucker)) } is trying to bite your neck!
+bloodsucker-blood-sucked-victim = { CAPITALIZE(THE($sucker)) } sucks some of your blood!
+bloodsucked-health-examine = [color=red]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target) } bite marks on { POSS-ADJ($target) } neck.[/color]
+bloodsucker-glands-throb = The glands behind your fangs feel a bit sore.
