@@ -1,9 +1,9 @@
-disease-cured = Вы чувствуете себя немного лучше.
-disease-sick-generic = Вы чувствуете себя больным.
-disease-eaten-inside = Вы чувствуете, как будто вас поедают изнутри.
-disease-banana-compulsion = Вам хочется съесть несколько бананов.
-disease-beat-chest-compulsion = { CAPITALIZE($person) } бьёт { $person } в грудь.
-disease-vomit = { CAPITALIZE($person) } тошнит.
-disease-think = Вы чувствуете, как переплетаются ваши мысли.
-disease-polymorph = Вы чувствуете, как ваше тело перекручивается и меняет форму!
+disease-cured = You feel a bit better.
+disease-sick-generic = You feel sick.
+disease-eaten-inside = You feel like you're being eaten from the inside.
+disease-banana-compulsion = You really want to eat some bananas.
+disease-beat-chest-compulsion = { CAPITALIZE(THE($person)) } beats { POSS-ADJ($person) } chest.
+disease-vomit = { CAPITALIZE(THE($person)) } vomits.
+disease-think = You feel like you can't think straight.
+disease-polymorph = You feel your body twist and change form!
 disease-sick-stomach = You feel like throwing up.
