@@ -1,9 +1,9 @@
-comp-storage-no-item-size = Нет
-comp-storage-cant-insert = Невозможно поместить.
-comp-storage-insufficient-capacity = Недостаточная вместимость.
-comp-storage-invalid-container = Неправильный контейнер для этого предмета.
-comp-storage-anchored-failure = Невозможно поместить закрепленный предмет.
+comp-storage-no-item-size = N/A
+comp-storage-cant-insert = Can't insert.
+comp-storage-insufficient-capacity = Insufficient capacity.
+comp-storage-invalid-container = This doesn't go in there!
+comp-storage-anchored-failure = Can't insert an anchored item.
 comp-storage-cant-drop = You can't let go of { THE($entity) }!
-comp-storage-window-title = Предмет хранилище
-comp-storage-window-volume = Занято: { $usedVolume }/{ $maxVolume }, предметов: { $itemCount }
-comp-storage-window-volume-unlimited = Предметов: { $itemCount }
+comp-storage-window-title = Storage Item
+comp-storage-window-volume = Items: { $itemCount }, Stored: { $usedVolume }/{ $maxVolume }
+comp-storage-window-volume-unlimited = Items: { $itemCount }
