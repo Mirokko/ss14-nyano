@@ -1,1 +1,1 @@
-melee-inject-failed-hardsuit = Ваш {$weapon} не может вводить через скафандры!
+melee-inject-failed-hardsuit = Ваш { $weapon } не может вводить через скафандры!
