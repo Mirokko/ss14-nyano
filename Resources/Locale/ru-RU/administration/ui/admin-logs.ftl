@@ -1,4 +1,4 @@
-﻿admin-logs-title = Панель админ логов
+﻿admin-logs-title = Admin Logs Panel
 admin-logs-count = Показ { $showing }/{ $total }
 admin-logs-pop-out = Поппаут
 # Round
@@ -8,10 +8,10 @@ admin-logs-reset-with-id = Сбросить раунд (#{ $id })
 # Types
 admin-logs-search-types-placeholder = Поиск типа... (ИЛИ)
 admin-logs-select-all = Все
-admin-logs-select-none = Никакие
+admin-logs-select-none = Никто
 # Players
 admin-logs-search-players-placeholder = Поиск игрока... (ИЛИ)
-admin-logs-select-none = Никто
+admin-logs-select-none = None
 admin-logs-include-non-player = Включить НЕ игроков
 # Logs
 admin-logs-search-logs-placeholder = Поиск по логам...
