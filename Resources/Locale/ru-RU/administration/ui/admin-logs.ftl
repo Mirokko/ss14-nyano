@@ -11,7 +11,7 @@ admin-logs-select-all = Все
 admin-logs-select-none = Никто
 # Players
 admin-logs-search-players-placeholder = Поиск игрока... (ИЛИ)
-admin-logs-select-none = None
+admin-logs-select-none = Никто
 admin-logs-include-non-player = Включить НЕ игроков
 # Logs
 admin-logs-search-logs-placeholder = Поиск по логам...
