@@ -1,4 +1,4 @@
-﻿roles-antag-syndicate-agent-name = Агент Синдиката
+﻿roles-antag-syndicate-agent-name = Syndicate agent
 roles-antag-syndicate-agent-objective = Выполните свои задачи, и не попадитесь.
 roles-antag-initial-infected-name = Нулевой зараженённый
 roles-antag-initial-infected-objective = Как только вы превратитесь, заразите как можно больше других членов экипажа.
