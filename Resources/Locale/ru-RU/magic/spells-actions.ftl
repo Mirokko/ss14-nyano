@@ -1,4 +1,4 @@
-﻿action-name-spell-rune-flash = Руна вспышки
+﻿action-name-spell-rune-flash = Flash Rune
 action-description-spell-rune-flash = Вызывает руну, которая ослепляет при использовании.
 action-name-spell-rune-explosion = Руна взрыва
 action-description-spell-rune-explosion = Призывает руну, которая взрывается при использовании.
