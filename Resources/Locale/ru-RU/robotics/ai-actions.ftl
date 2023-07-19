@@ -1,4 +1,4 @@
-﻿action-name-show-solar-console = Интерфейс управления солнечными батареями
+﻿action-name-show-solar-console = Solar Control Interface
 action-description-show-solar-console = Просмотр интерфейса управления солнечными батареями.
 action-name-show-communications-console = Интерфейс связи
 action-description-show-communications-console = Просмотр интерфейса связи.
