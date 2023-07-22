@@ -1,4 +1,4 @@
-﻿trait-blindness-name = Слепота
+﻿trait-blindness-name = Blindness
 trait-blindness-desc = У вас ужасное зрение
 trait-narcolepsy-name = Нарколепсия
 trait-narcolepsy-decs = Вас одолевают приступы сонливости

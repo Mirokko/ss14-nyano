@@ -1,4 +1,4 @@
-﻿job-supervisors-captain = капитану
+﻿job-supervisors-captain = the captain
 job-supervisors-ce = старшему инженеру
 job-supervisors-centcom = представителю Центкома
 job-supervisors-cmo = главному врачу
